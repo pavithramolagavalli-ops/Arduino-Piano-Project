@@ -18,8 +18,7 @@ A functional 4-key piano built with Arduino UNO that plays Sa, Re, Ga, Ma notes.
 ![Circuit Diagram](circuit.png)
 
 **TinkerCAD Simulation:**
-![Simulation Screenshot](simulation_screenshot.png)
-> Note: Add screenshot after uploading image files
+![Simulation Screenshot](Screenshot%202026-06-03%20092555.png)
 
 ---
 
@@ -52,14 +51,14 @@ A functional 4-key piano built with Arduino UNO that plays Sa, Re, Ga, Ma notes.
 | Pin 8 | Buzzer Positive |
 | GND | All button grounds + Buzzer negative |
 
-> **Full circuit diagram:** `arduino_piano_circuit.png` file in this repo
+> **Full circuit diagram:** `circuit.png` file in this repo
 
 ---
 
 ### 💻 **Software & Code**
 - **Language:** Arduino C/C++
 - **IDE:** Arduino IDE / TinkerCAD Circuits
-- **Main File:** `Arduino_Piano.ino`
+- **Main File:** `Arduino-Piano.ino`
 - **Key Functions Used:** `pinMode()`, `digitalRead()`, `tone()`, `noTone()`
 
 ---
@@ -72,7 +71,7 @@ A functional 4-key piano built with Arduino UNO that plays Sa, Re, Ga, Ma notes.
 3. Click buttons to play
 
 #### **Option 2: Real Hardware**
-1. Download `Arduino_Piano.ino` from this repo
+1. Download `Arduino-Piano.ino` from this repo
 2. Connect components as per circuit diagram
 3. Upload code via Arduino IDE
 4. Press buttons to play music
@@ -97,7 +96,7 @@ A functional 4-key piano built with Arduino UNO that plays Sa, Re, Ga, Ma notes.
 ---
 
 ### 👩‍💻 **Author**
-**Pavithra**  
+**Pavithra Molagavelli**  
 B.Tech ECE Student | IoT & Embedded Systems Enthusiast
 
 📧 **Contact:** pavithramolagavalli@gmail.com  
@@ -108,3 +107,8 @@ B.Tech ECE Student | IoT & Embedded Systems Enthusiast
 
 **⭐ If you like this project, give it a star!**  
 **🎹 Made with Arduino + Music + Lot of Debugging**
+
+
+---
+
+0
