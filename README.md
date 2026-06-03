@@ -14,7 +14,7 @@ A functional 4-key piano built with Arduino UNO that plays Sa, Re, Ga, Ma notes.
 
 ### 📸 **Project Demo**
 
-**Circuit Diagram:**
+**circuit Diagram:**
 ![Circuit Diagram](circuit.png)
 
 **TinkerCAD Simulation:**
